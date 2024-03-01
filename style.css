@@ -28,3 +28,22 @@ button{
     border-radius: 5px;
     border: solid 1px;
 }
+
+#page{
+    font-size: medium;
+    padding-left: 10%;
+    margin-bottom: 20%;
+    margin-top: 10%;
+
+}
+#web{
+
+    
+}
+.button{
+    padding-left: 10%;
+    margin-top: -19%;
+    margin-bottom: 9%;
+    color: palevioletred;
+    display: flex;
+}
